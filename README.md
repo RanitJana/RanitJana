@@ -22,6 +22,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RanitJana&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RanitJana&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
