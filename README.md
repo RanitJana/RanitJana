@@ -33,9 +33,15 @@
 
 <h2>🌐 Socials</h2>
 <p align="left">
+<a href="https://www.linkedin.com/in/ranit-jana-12660a253" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranit jana" height="30" width="40"/>
+</a>
+<a href="https://www.facebook.com/ranit.ranit.9231" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranit jana" height="30" width="40"/>
+</a>
+<a href="https://www.instagram.com/ranit_jana1/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranit_jana1" height="30" width="40"/>
+</a>
 </p>
 
 <hr style="margin: 50px 0;">
