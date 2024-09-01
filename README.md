@@ -1,10 +1,10 @@
-<div style="padding:20px">
+<div style="padding:20px;">
     <h1 align="center">Hi 👋, I'm Ranit</h1>
-    <h3 align="center" style="margin-bottom:50px">A passionate Full stack developer and competitive coder from India</h3>
+    <h3 align="center" style="margin-bottom:50px;">A passionate Full stack developer and competitive coder from India</h3>
     
 <div style="display:flex;flex-direction:row-reverse;flex-wrap:wrap;justify-content:center;align-items:center;">
         <div style="width:200px;aspect-ratio:1;flex-shrink:0;">
-            <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" style="border-radius:50%;width:100%;height:100%;object-fit:cover">
+            <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" style="border-radius:50%;width:100%;height:100%;object-fit:cover;">
         </div>
         <div style="flex-grow:1;max-width:600px;text-align:center;">
             <p>🌱 I’m currently learning <strong>React-Native for incoming hackathon</strong></p>
@@ -69,7 +69,7 @@
         </a>
     </p>
 
-    ---
+---
 ## 🌐 Socials
 <p align="left">
         <a href="https://linkedin.com/in/ranitjana" target="blank">
