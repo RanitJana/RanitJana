@@ -1,68 +1,43 @@
 <div style="padding: 20px;">
 <h1 align="center">Hi 👋, I'm Ranit</h1>
-<h3 align="center" style="margin-bottom: 50px;">A passionate Full stack developer and competitive coder from India</h3>
+<h3 align="center" style="margin-bottom: 25px;">A passionate Full stack developer and competitive coder from India</h3>
 
-- 🌱 I’m currently learning <strong>React-Native for incoming hackathon</strong>
-- 💬 Ask me about <strong>DSA, MERN, React-Native</strong>
--  📫 How to reach me <strong>ranitjana100@gmail.com</strong>
+<span style="font-size: 20px;"><strong>🔭 I’m currently working on</string></span> React-Native Projects<br>
+<span style="font-size: 20px;"><strong>👯 I’m looking to collaborate on </string></span>Full-stack Projects<br>
+🌱<span style="font-size: 20px"><strong> I’m currently learning</string></span> React-Native for upcoming Hackathon<br>
+<span style="font-size: 20px"><strong>💬 Ask me about</string></span> DSA, MERN stack
 
-<hr style="margin: 50px 0;">
 
-<h2>💻 Tech stack</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLShKIZAvVpnR0ffKU83S2gPTuB4Zx_Z95Dg&s" alt="express" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height=""/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</p>
+<h2 style="background-color:rgb(1,0,1);padding:10px" align="">🌐 Socials:</h2>
 
-<hr style="margin: 50px 0;">
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ranit.ranit.9231) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ranit_jana1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranit-jana-12660a253/) 
 
-<h2>🌐 Socials</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/ranit-jana-12660a253" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranit jana" height="30" width="40"/>
-</a>
-<a href="https://www.facebook.com/ranit.ranit.9231" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranit jana" height="30" width="40"/>
-</a>
-<a href="https://www.instagram.com/ranit_jana1/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranit_jana1" height="30" width="40"/>
-</a>
-</p>
+<h2 style="background-color:rgb(1,0,1);padding:10px" align="">💻 Tech Stack:</h2>
 
-<hr style="margin: 50px 0;">
+![C+++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h2>🔍 Profile preview</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranitjana&show_icons=true&locale=en&layout=compact&theme=radical" alt="ranitjana" />
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ranitjana&show_icons=true&locale=en&theme=radical" alt="ranitjana" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranitjana&theme=radical" alt="ranitjana"/>
+<h2 style="background-color:rgb(1,0,1);padding:10px" align="">📊 GitHub Stats:</h2>
 
-<hr style="margin: 50px 0;">
+![](https://github-readme-stats.vercel.app/api?username=RanitJana&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RanitJana&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RanitJana&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h2>🎗️ Support</h2>
+<h2 style="background-color:rgb(1,0,1);padding:10px" align=""> ✍️ Random Dev Quote</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<h2 style="background-color:rgb(1,0,1);padding:10px" align="">🔝 Top Contributed Repo</h2>
+
+![](https://github-contributor-stats.vercel.app/api?username=RanitJana&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RanitJana&icon=5&color=8)](https://visitcount.itsvg.in)
+---
+
+<h3>🎗️ Support</h2>
 <p><a href="https://www.buymeacoffee.com/RanitJana"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RanitJana" />
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="150" alt="RanitJana" />
 </a></p>
-<br><br>
+<br><br> 
 
-<hr style="margin: 50px 0;">
-
-<div>
-<img src="https://visitcount.itsvg.in/api?id=RanitJana&icon=0&color=0" alt="Visit Count"/>
-</div>
 </div>
